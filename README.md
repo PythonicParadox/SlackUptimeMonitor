@@ -5,7 +5,7 @@
 
 #### A simple, one file script that notifies you on slack when your website is down.
 
-## Configuration
+## Configuration you need
 
 ### Step 1 - Get the script
 
